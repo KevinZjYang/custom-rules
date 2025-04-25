@@ -1,8 +1,14 @@
-+.tracker.*
-+.trackers.*
-+.czhch
-+.icc2022
-+.hdkylin
++tracker.*
++trackers.*
++pt.btschool.club
++t.audiences.me
++www.icc2022.com
++www.pttime.org
++tracker.rousipt.com
++tracker.cinefiles.info
++*.czhch.*
++*.icc2022.*
++*.hdkylin.*
 +.hdkyl.in 
 +.zhuque.in  
 +.piggo.me 
@@ -15,6 +21,3 @@
 +.m-team.io
 +.m-team.cc
 +.rousi.zip
-+.pt.btschool.club
-+.t.audiences.me
-+.www.icc2022.com
