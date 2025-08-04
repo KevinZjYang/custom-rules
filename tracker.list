@@ -1,13 +1,13 @@
-+.tracker.*
-+.trackers.*
++.tracker
++.trackers
 +.pt.btschool.club
 +.pt.soulvoice.club
 +.t.audiences.me
 +.t.hdhome.org
 +.pttime.org
-+.czhch.*
-+.icc2022.*
-+.hdkylin.*
++.*.czhch.*
++.*.icc2022.*
++.*.hdkylin.*
 +.hdkyl.in 
 +.zhuque.in  
 +.piggo.me 
@@ -20,6 +20,5 @@
 +.m-team.io
 +.m-team.cc
 +.rousi.zip
-+.tracker.cinefiles.info
 
 
