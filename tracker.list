@@ -1,5 +1,5 @@
-+.*.tracker.*
-+.*.trackers.*
++.tracker
++.trackers
 +.pt.btschool.club
 +.pt.soulvoice.club
 +.t.audiences.me
@@ -20,4 +20,3 @@
 +.m-team.io
 +.m-team.cc
 +.rousi.zip
-+.tracker.cinefiles.info
