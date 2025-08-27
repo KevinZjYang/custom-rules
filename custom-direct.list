@@ -3,6 +3,7 @@
 +.production.cloudflare.docker.com
 +.docker.1panel.top
 +.docker.1panel.dev
++.docker.io
 +.ntp.org
 +.ecydns.com
 +.x.subrm.com
