@@ -1,11 +1,5 @@
-
-
-
-
-
-
-
-
-
-
-
++.docker.io
++.registry-1.docker.io
++.ghcr.io
++.quay.io
++.nvcr.io
